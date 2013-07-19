@@ -5,6 +5,6 @@
 	<project path="/device/htc/bravo" name="AndyFox2013/android_device_htc_bravo" revision="jellybean-4.1.2" />
 	<project path="/device/htc/qsd8k-common" name="AndyFox2013/android_device_htc_qsd8k-common" revision="jellybean-4.1.2" />
 	<project path="/kernel/htc/qsd8k-kernel" name="AndyFox2013/android_kernel_htc_qsd8k" revision="jellybean" />
-	
+	<project path="/vendor/htc/bravo" name="AndyFox2013/android_vendor_htc_bravo" revision="jellybean" />
 
 </manifest>
