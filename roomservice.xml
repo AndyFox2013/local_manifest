@@ -1,0 +1,11 @@
+<manifest>
+
+		<!-- Tab 3 8.0 WiFi Required Files -->
+	<project path="/device/samsung/lt01wifi" name="tohenk/android_device_samsung_lt01wifi" revision="cm-12.1" />
+	<project path="/device/samsung/lt01-common" name="tohenk/android_device_samsung_lt01-common" revision="cm-12.1" />
+	<project path="/kernel/samsung/smdk4x12" name="tohenk/android_kernel_samsung_smdk4x12" revision="cm-12.1" />
+	<project path="/vendor/samsung" name="tohenk/proprietary_vendor_samsun" revision="cm-12.1" />
+	<project name="/ivanmeler/android_hardware_samsung" path="hardware/samsung" revision="cm-12.1"/>
+	<project name="/ivanmeler/proprietary_vendor_samsung" path="vendor/samsung" revision="cm-12.1"/>
+
+</manifest>
